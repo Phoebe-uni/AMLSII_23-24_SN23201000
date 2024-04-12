@@ -27,6 +27,6 @@ Then, enter the AMLSII_23-24_SN23201000 folder, activate the environment created
 pip install -r requirements.txt
 ```
 
-## 2. How to check the result of this project
+## 2. How to run the models
 
-Just run the main.py
+Easily train and test all the model by running the main.py.
