@@ -1,8 +1,8 @@
 # AMLSII_23-24_SN23201000
-ELEC 0135 Applied Machine Learning Systems II aimed at solving the NTIRE 2017 super resolution challenge
+ELEC 0135 Applied Machine Learning Systems II project aimed at solving the NTIRE 2017 super resolution challenge
 
 ## 1. Prerequisites
-To Begin with, it is required to download the datasets and put it into the empty Datasets folder. The structure of the Datasets folder are as follows:
+To Begin with, it is required to download the datasets and put it into an empty Datasets folder. The structure of the Datasets folder should be as follows:
 
 * Datasets/
   * DIV2K_train_HR/
@@ -12,7 +12,7 @@ To Begin with, it is required to download the datasets and put it into the empty
   * DIV2K_valid_LR_bicubic_X2/DIV2K_valid_LR_bicubic/X2
   * DIV2K_valid_LR_unknown/DIV2K_valid_LR_unknown/X2
 
-The folder Datasets is not included, you can either download the required Datesets according to the file tree or you can download the zip file [here](https://data.vision.ee.ethz.ch/cvl/DIV2K/). 
+The folder Datasets is not included, you can download the required Datesets at [here](https://data.vision.ee.ethz.ch/cvl/DIV2K/). 
 
 ### The environment
 
